@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "date": "2026-04-17",
+    "narrative_tagline": "NASDAQ은 현재 AI 데이터센터 인프라 수요를 핵심 동력으로 한 반도체·전력 관리 칩 중심의 기술주 재평가를 진행 중이며, 비트코인 연동 자산도 동반 강세를 보이고 있다.",
+    "top5": [
+      {
+        "ticker": "MSTR",
+        "name": "MicroStrategy",
+        "sector": "Information Technology",
+        "change_pct_nd": 11.8
+      },
+      {
+        "ticker": "ADI",
+        "name": "Analog Devices",
+        "sector": "Information Technology",
+        "change_pct_nd": 4.99
+      },
+      {
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "sector": "Information Technology",
+        "change_pct_nd": 4.74
+      },
+      {
+        "ticker": "MPWR",
+        "name": "Monolithic Power Systems, Inc.",
+        "sector": "",
+        "change_pct_nd": 4.67
+      },
+      {
+        "ticker": "DXCM",
+        "name": "Dexcom",
+        "sector": "Health Care",
+        "change_pct_nd": 4.49
+      }
+    ]
+  }
+]

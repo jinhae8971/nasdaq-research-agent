@@ -1,0 +1,177 @@
+{
+  "date": "2026-04-17",
+  "generated_at": "2026-04-18T00:31:38.546116Z",
+  "gainers": [
+    {
+      "ticker": "MSTR",
+      "name": "MicroStrategy",
+      "sector": "Information Technology",
+      "close": 166.52000427246094,
+      "market_cap": 0.0,
+      "trading_value": 8631769241.068268,
+      "volume": 51836230,
+      "change_pct_1d": 11.803411805348096,
+      "change_pct_nd": 11.803411805348096,
+      "price_n_days_ago": null,
+      "market_cap_rank": 68
+    },
+    {
+      "ticker": "ADI",
+      "name": "Analog Devices",
+      "sector": "Information Technology",
+      "close": 371.45001220703125,
+      "market_cap": 181343440077.1734,
+      "trading_value": 1948223369.324829,
+      "volume": 5244914,
+      "change_pct_1d": 4.9887012501511645,
+      "change_pct_nd": 4.9887012501511645,
+      "price_n_days_ago": null,
+      "market_cap_rank": 27
+    },
+    {
+      "ticker": "MRVL",
+      "name": "Marvell Technology",
+      "sector": "Information Technology",
+      "close": 139.69000244140625,
+      "market_cap": 122153074378.95782,
+      "trading_value": 3614896625.968689,
+      "volume": 25877991,
+      "change_pct_1d": 4.738702523506568,
+      "change_pct_nd": 4.738702523506568,
+      "price_n_days_ago": null,
+      "market_cap_rank": 40
+    },
+    {
+      "ticker": "MPWR",
+      "name": "Monolithic Power Systems, Inc.",
+      "sector": "",
+      "close": 1468.3499755859375,
+      "market_cap": 0.0,
+      "trading_value": 932957270.7878418,
+      "volume": 635378,
+      "change_pct_1d": 4.672044985041534,
+      "change_pct_nd": 4.672044985041534,
+      "price_n_days_ago": null,
+      "market_cap_rank": 62
+    },
+    {
+      "ticker": "DXCM",
+      "name": "Dexcom",
+      "sector": "Health Care",
+      "close": 63.97999954223633,
+      "market_cap": 0.0,
+      "trading_value": 375274687.3149872,
+      "volume": 5865500,
+      "change_pct_1d": 4.491262486623172,
+      "change_pct_nd": 4.491262486623172,
+      "price_n_days_ago": null,
+      "market_cap_rank": 97
+    }
+  ],
+  "analyses": [
+    {
+      "ticker": "MSTR",
+      "name": "MicroStrategy",
+      "pump_thesis": "비트코인 가격 강세에 연동된 MicroStrategy의 BTC 보유 자산 가치 상승이 주가 급등의 핵심 동력으로 작용한 것으로 판단됨",
+      "drivers": [
+        "비트코인 가격 상승: MSTR은 사실상 레버리지 비트코인 ETF 대용물로 기능하며, BTC 가격 변동에 주가가 고베타로 반응함. 최근 2거래일간 암호화폐 시장 전반의 랠리가 MSTR 주가 11.8% 급등을 견인한 것으로 추정됨",
+        "높은 거래대금(약 86억 달러)과 거래량(5,180만 주)은 개인 및 기관 투자자의 단기 모멘텀 트레이딩과 옵션 감마 스퀴즈 가능성을 시사하며, 비트코인 강세 국면에서 MSTR 레버리지 플레이 수요가 집중된 것으로 보임"
+      ],
+      "risks": [
+        "비트코인 가격 급락 시 MSTR 주가는 BTC 대비 수배의 하락폭을 기록할 수 있는 고레버리지 구조적 위험 존재",
+        "규제 리스크: 미국 SEC 및 글로벌 암호화폐 규제 강화 시 BTC 보유 전략의 회계·법적 불확실성이 확대될 수 있음",
+        "주식 희석 위험: MSTR은 BTC 매입 재원 조달을 위해 지속적으로 전환사채 및 신주 발행을 진행해왔으며, 추가 자본 조달 시 기존 주주 가치 희석 우려"
+      ],
+      "sector_tags": [
+        "Technology",
+        "Financials"
+      ],
+      "confidence": 0.62,
+      "news_used": []
+    },
+    {
+      "ticker": "ADI",
+      "name": "Analog Devices",
+      "pump_thesis": "반도체 섹터 전반의 긍정적 투자 심리 회복 및 산업용·자동차용 아날로그 반도체 수요 회복 기대감이 ADI 주가 상승을 이끈 것으로 판단됨",
+      "drivers": [
+        "반도체 섹터 로테이션 및 동반 상승: MRVL, MPWR 등 동종 반도체 기업들이 동시에 강세를 보이는 점에서, 섹터 전반의 매수세 유입과 AI 인프라 투자 확대에 따른 아날로그·혼합신호 반도체 수요 회복 기대감이 복합적으로 작용한 것으로 추정됨",
+        "ADI는 산업용 자동화, 전기차, 통신 인프라 등 고성장 최종 시장에 폭넓게 노출되어 있으며, 글로벌 제조업 경기 회복 신호 및 재고 조정 사이클 종료 기대감이 밸류에이션 리레이팅 모멘텀을 제공하고 있음"
+      ],
+      "risks": [
+        "금리 민감도: 성장주·고멀티플 기술주 특성상 미국 국채 금리 재상승 시 밸류에이션 배수 축소 압력에 노출됨",
+        "산업용 반도체 수요 회복 지연: 글로벌 제조업 PMI 위축 지속 또는 고객사 재고 소진 속도 둔화 시 실적 회복 시점이 시장 기대보다 늦어질 수 있음"
+      ],
+      "sector_tags": [
+        "Technology"
+      ],
+      "confidence": 0.55,
+      "news_used": []
+    },
+    {
+      "ticker": "MRVL",
+      "name": "Marvell Technology",
+      "pump_thesis": "AI 데이터센터향 커스텀 실리콘(ASIC) 및 고속 네트워킹 반도체 수요 확대 기대감이 MRVL 주가 상승의 핵심 촉매로 작용한 것으로 판단됨",
+      "drivers": [
+        "AI 인프라 투자 확대 수혜: MRVL은 아마존, 구글 등 하이퍼스케일러의 커스텀 AI 가속기 및 광학 네트워킹 칩 공급업체로서, 빅테크의 AI 설비투자 지속 확대 뉴스 흐름이 MRVL에 대한 긍정적 재평가를 유도하고 있음",
+        "반도체 섹터 전반의 상승 모멘텀: ADI, MPWR 등 동종 기업과 함께 섹터 순환매 흐름에 탑승하였으며, 높은 거래대금(36억 달러)과 거래량(2,590만 주)이 기관 매수세 유입을 시사함"
+      ],
+      "risks": [
+        "고객 집중 리스크: 소수의 하이퍼스케일러에 대한 매출 의존도가 높아, 특정 고객의 AI 투자 계획 변경 또는 내재화(in-house) 전략 강화 시 실적 변동성이 커질 수 있음",
+        "경쟁 심화: NVIDIA, Broadcom 등 대형 경쟁사와의 AI 반도체 시장 경쟁 激化 및 하이퍼스케일러의 자체 칩 개발 역량 강화가 MRVL의 시장 지위를 위협할 수 있음"
+      ],
+      "sector_tags": [
+        "Technology"
+      ],
+      "confidence": 0.65,
+      "news_used": []
+    },
+    {
+      "ticker": "MPWR",
+      "name": "Monolithic Power Systems, Inc.",
+      "pump_thesis": "AI 서버 및 데이터센터용 전력 관리 반도체(PMIC) 수요 급증 기대감이 MPWR 주가 상승의 주된 동력으로 추정됨",
+      "drivers": [
+        "AI 데이터센터 전력 솔루션 수혜: MPWR의 고효율 전력 관리 IC는 GPU 집약적 AI 서버의 전력 밀도 증가 문제 해결에 핵심적이며, NVIDIA GPU 플랫폼 확산 및 데이터센터 전력 인프라 투자 확대가 MPWR의 TAM(총 주소 가능 시장) 확대로 직결됨",
+        "반도체 섹터 동반 강세: ADI, MRVL 등과 함께 섹터 매수세가 집중되었으며, MPWR의 프리미엄 밸류에이션(높은 PER)이 AI 성장 내러티브 속에서 지지받고 있음"
+      ],
+      "risks": [
+        "밸류에이션 부담: MPWR는 동종 아날로그 반도체 대비 현저히 높은 밸류에이션 배수로 거래되고 있어, 금리 상승 또는 AI 투자 심리 냉각 시 급격한 멀티플 압축 가능성이 있음",
+        "공급망 및 경쟁 리스크: Texas Instruments, Renesas 등 대형 전력 반도체 업체들의 AI 서버 시장 진입 강화로 인한 가격 경쟁 심화 및 점유율 위협 우려"
+      ],
+      "sector_tags": [
+        "Technology"
+      ],
+      "confidence": 0.6,
+      "news_used": []
+    },
+    {
+      "ticker": "DXCM",
+      "name": "Dexcom",
+      "pump_thesis": "연속혈당측정기(CGM) 시장의 구조적 성장 기대감 및 헬스케어 섹터 내 디지털 헬스 기업에 대한 투자 심리 개선이 DXCM 주가 반등을 이끈 것으로 추정됨",
+      "drivers": [
+        "헬스케어 섹터 순환매 및 CGM 수요 회복 기대: GLP-1 비만·당뇨 치료제 확산과 맞물려 CGM 기기 수요가 장기적으로 확대될 것이라는 기대감이 지속적으로 DXCM 주가를 지지하는 요인으로 작용하며, 헬스케어 섹터 전반의 매수세 유입이 단기 반등을 견인한 것으로 보임",
+        "과매도 반등 가능성: DXCM은 2024년 실적 가이던스 하향 이후 주가가 크게 조정된 상태로, 저가 매수세와 숏커버링이 단기 가격 상승에 기여했을 가능성이 있음"
+      ],
+      "risks": [
+        "경쟁 심화: Abbott의 FreeStyle Libre 시리즈 및 신규 CGM 플레이어들의 시장 진입으로 인한 가격 압력과 시장 점유율 방어 부담이 지속됨",
+        "GLP-1 약물 보급 확대의 역설: 비만·당뇨 치료제 효과로 인슐린 의존도가 낮아질 경우, CGM 사용 필요성이 감소하여 DXCM의 핵심 고객층 성장세가 둔화될 수 있다는 구조적 위협 존재"
+      ],
+      "sector_tags": [
+        "Healthcare"
+      ],
+      "confidence": 0.48,
+      "news_used": []
+    }
+  ],
+  "narrative": {
+    "current_narrative": "NASDAQ은 현재 AI 데이터센터 인프라 수요를 핵심 동력으로 한 반도체·전력 관리 칩 중심의 기술주 재평가를 진행 중이며, 비트코인 연동 자산도 동반 강세를 보이고 있다.",
+    "hot_sectors": [
+      "AI 반도체 / 데이터센터 인프라",
+      "Technology (아날로그·커스텀 실리콘·전력관리 IC)"
+    ],
+    "cooling_sectors": [
+      "Healthcare (디지털 헬스)"
+    ],
+    "investment_insight": "데이터가 오늘 하루치에 불과해 확신도가 낮으나, MRVL·MPWR 중심의 AI 인프라 반도체 테마가 오늘 가장 높은 신뢰도(0.60~0.65)를 기록했으므로 단기적으로 AI 데이터센터 공급망(커스텀 ASIC, 전력관리 IC) 비중 확대 포지션을 검토할 수 있다. MSTR의 BTC 레버리지 플레이는 변동성이 크고 신뢰도(0.62)가 펀더멘털보다 암호화폐 모멘텀에 의존하므로 헤지 없이 과도한 비중 확대는 자제할 것을 권고한다. 무효화 신호: AI 캐팩스 사이클 둔화 신호(빅테크 설비투자 가이던스 하향) 또는 실질금리 급등 시 고PER 성장주 전반 재조정 위험에 유의해야 한다.",
+    "week_over_week_change": "단일 거래일 데이터만 존재하여 주간 로테이션 비교가 불가능하며, 추세 판단을 위해 최소 2일 이상의 히스토리가 필요하다."
+  }
+}
