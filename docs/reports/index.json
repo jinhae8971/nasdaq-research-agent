@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-04-21",
+    "narrative_tagline": "나스닥 시장은 현재 AI 데이터센터 인프라 확장 수혜 반도체·하드웨어주와 금리 안정화 기대감에 따른 엔터프라이즈 SaaS 멀티플 리레이팅을 동시에 보상하고 있으며, AMD·STX·MRVL로 대표되는 AI 인프라 체인이 3일 연속 상위권을 점령하는 추세",
+    "top5": [
+      {
+        "ticker": "CRWD",
+        "name": "CrowdStrike",
+        "sector": "Information Technology",
+        "change_pct_nd": 3.8
+      },
+      {
+        "ticker": "STX",
+        "name": "Seagate Technology Holdings plc",
+        "sector": "",
+        "change_pct_nd": 3.73
+      },
+      {
+        "ticker": "ZS",
+        "name": "Zscaler",
+        "sector": "Information Technology",
+        "change_pct_nd": 3.57
+      },
+      {
+        "ticker": "AMD",
+        "name": "AMD",
+        "sector": "Information Technology",
+        "change_pct_nd": 3.47
+      },
+      {
+        "ticker": "FANG",
+        "name": "Diamondback Energy",
+        "sector": "Energy",
+        "change_pct_nd": 3.46
+      }
+    ]
+  },
+  {
     "date": "2026-04-20",
     "narrative_tagline": "나스닥 시장은 현재 AI 데이터센터 인프라 수혜 반도체(커스텀 ASIC, 고속 인터커넥트, 전력관리)와 엔터프라이즈 SaaS 멀티플 리레이팅에 집중적으로 보상을 부여하고 있으며, 금리 안정화 기대감이 성장주 전반의 밸류에이션 회복을 지지하고 있다.",
     "top5": [

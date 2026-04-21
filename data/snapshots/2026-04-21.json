@@ -1,0 +1,713 @@
+{
+  "date": "2026-04-21",
+  "fetched_at": "2026-04-21T22:36:34.211798Z",
+  "stocks": [
+    {
+      "ticker": "NVDA",
+      "name": "NVIDIA",
+      "close": 199.8800048828125,
+      "market_cap": 4858083518676.758,
+      "trading_value": 21424078959.002808
+    },
+    {
+      "ticker": "GOOG",
+      "name": "Alphabet (C)",
+      "close": 330.4700012207031,
+      "market_cap": 3997695604766.8457,
+      "trading_value": 4762503650.471924
+    },
+    {
+      "ticker": "GOOGL",
+      "name": "Alphabet (A)",
+      "close": 332.2900085449219,
+      "market_cap": 4019712233367.92,
+      "trading_value": 7662624876.126343
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple",
+      "close": 266.1700134277344,
+      "market_cap": 3912147160779.846,
+      "trading_value": 13139076271.249603
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft",
+      "close": 424.1600036621094,
+      "market_cap": 3152517333787.1396,
+      "trading_value": 13479602167.900085
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon",
+      "close": 249.91000366210938,
+      "market_cap": 2687595106471.3364,
+      "trading_value": 10639131939.132782
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom",
+      "close": 402.1700134277344,
+      "market_cap": 1906798147408.3953,
+      "trading_value": 6499102003.613342
+    },
+    {
+      "ticker": "META",
+      "name": "Meta Platforms",
+      "close": 668.8400268554688,
+      "market_cap": 1697799110817.9077,
+      "trading_value": 5744049651.3168335
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla",
+      "close": 386.4200134277344,
+      "market_cap": 1450014817643.94,
+      "trading_value": 19411175645.720215
+    },
+    {
+      "ticker": "WMT",
+      "name": "Walmart Inc.",
+      "close": 129.60000610351562,
+      "market_cap": 1033223412789.2832,
+      "trading_value": 2000205022.199707
+    },
+    {
+      "ticker": "ASML",
+      "name": "ASML",
+      "close": 1458.969970703125,
+      "market_cap": 572877228691.8076,
+      "trading_value": 1854861472.253418
+    },
+    {
+      "ticker": "MU",
+      "name": "Micron",
+      "close": 449.3800048828125,
+      "market_cap": 506781133344.8939,
+      "trading_value": 12078516210.261108
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "close": 284.489990234375,
+      "market_cap": 463835565087.5791,
+      "trading_value": 10764500103.119385
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco",
+      "close": 1005.8099975585938,
+      "market_cap": 446448291194.24445,
+      "trading_value": 1325727983.4820557
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix",
+      "close": 92.58000183105469,
+      "market_cap": 390887779670.5898,
+      "trading_value": 5105305314.653137
+    },
+    {
+      "ticker": "CSCO",
+      "name": "Cisco",
+      "close": 89.69999694824219,
+      "market_cap": 354413170243.3163,
+      "trading_value": 1671757321.323761
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir",
+      "close": 145.97000122070312,
+      "market_cap": 349112906454.19604,
+      "trading_value": 6511292602.651978
+    },
+    {
+      "ticker": "INTC",
+      "name": "Intel",
+      "close": 66.26000213623047,
+      "market_cap": 332692148433.31506,
+      "trading_value": 6030859301.655632
+    },
+    {
+      "ticker": "LRCX",
+      "name": "Lam Research",
+      "close": 258.3699951171875,
+      "market_cap": 324520464967.041,
+      "trading_value": 2016890956.3237305
+    },
+    {
+      "ticker": "AMAT",
+      "name": "Applied Materials",
+      "close": 394.3299865722656,
+      "market_cap": 312944168197.72754,
+      "trading_value": 2131176523.2591248
+    },
+    {
+      "ticker": "KLAC",
+      "name": "KLA",
+      "close": 1785.3699951171875,
+      "market_cap": 234583937853.49585,
+      "trading_value": 1206217393.1411133
+    },
+    {
+      "ticker": "LIN",
+      "name": "Linde",
+      "close": 494.8399963378906,
+      "market_cap": 229305962458.03992,
+      "trading_value": 763849863.5470581
+    },
+    {
+      "ticker": "TMUS",
+      "name": "T-Mobile",
+      "close": 195.38999938964844,
+      "market_cap": 218545008971.45773,
+      "trading_value": 2175062520.3756256
+    },
+    {
+      "ticker": "TXN",
+      "name": "Texas Instruments",
+      "close": 233.14999389648438,
+      "market_cap": 212274530790.52255,
+      "trading_value": 1591656720.8328247
+    },
+    {
+      "ticker": "PEP",
+      "name": "PepsiCo",
+      "close": 154.9199981689453,
+      "market_cap": 211766491949.77634,
+      "trading_value": 747150955.7291565
+    },
+    {
+      "ticker": "ARM",
+      "name": "Arm Holdings",
+      "close": 175.49000549316406,
+      "market_cap": 186370134707.54236,
+      "trading_value": 1129020741.5104523
+    },
+    {
+      "ticker": "AMGN",
+      "name": "Amgen",
+      "close": 344.8599853515625,
+      "market_cap": 185902870504.00085,
+      "trading_value": 649276860.7810059
+    },
+    {
+      "ticker": "ADI",
+      "name": "Analog Devices",
+      "close": 375.2699890136719,
+      "market_cap": 183208368633.81894,
+      "trading_value": 1236735272.5535889
+    },
+    {
+      "ticker": "SHOP",
+      "name": "Shopify Inc.",
+      "close": 131.1300048828125,
+      "market_cap": 170598455659.26648,
+      "trading_value": 902749700.9251709
+    },
+    {
+      "ticker": "GILD",
+      "name": "Gilead Sciences",
+      "close": 133.2899932861328,
+      "market_cap": 165440037638.16296,
+      "trading_value": 742880447.9308319
+    },
+    {
+      "ticker": "ISRG",
+      "name": "Intuitive Surgical",
+      "close": 451.2900085449219,
+      "market_cap": 160284533337.57727,
+      "trading_value": 1303806619.8268433
+    },
+    {
+      "ticker": "APP",
+      "name": "AppLovin",
+      "close": 473.17999267578125,
+      "market_cap": 159913544424.74365,
+      "trading_value": 1816322694.9856567
+    },
+    {
+      "ticker": "BKNG",
+      "name": "Booking Holdings",
+      "close": 190.86000061035156,
+      "market_cap": 151129371113.15692,
+      "trading_value": 719451734.6607361
+    },
+    {
+      "ticker": "QCOM",
+      "name": "Qualcomm",
+      "close": 135.55999755859375,
+      "market_cap": 144784191419.588,
+      "trading_value": 1605896870.5981445
+    },
+    {
+      "ticker": "PANW",
+      "name": "Palo Alto Networks",
+      "close": 174.9600067138672,
+      "market_cap": 142767365478.51562,
+      "trading_value": 973405218.8731842
+    },
+    {
+      "ticker": "HON",
+      "name": "Honeywell",
+      "close": 222.22000122070312,
+      "market_cap": 140810396877.68234,
+      "trading_value": 1074946589.664917
+    },
+    {
+      "ticker": "PDD",
+      "name": "PDD Holdings",
+      "close": 98.98999786376953,
+      "market_cap": 140530800240.688,
+      "trading_value": 1150062825.4813385
+    },
+    {
+      "ticker": "MRVL",
+      "name": "Marvell Technology",
+      "close": 151.30999755859375,
+      "market_cap": 132314274916.04218,
+      "trading_value": 4806504606.466431
+    },
+    {
+      "ticker": "WDC",
+      "name": "Western Digital Corporation",
+      "close": 383.80999755859375,
+      "market_cap": 131224362205.89496,
+      "trading_value": 2341346532.8567505
+    },
+    {
+      "ticker": "STX",
+      "name": "Seagate Technology Holdings plc",
+      "close": 559.9000244140625,
+      "market_cap": 125431814051.66956,
+      "trading_value": 1973210864.0405273
+    },
+    {
+      "ticker": "CRWD",
+      "name": "CrowdStrike",
+      "close": 449.6099853515625,
+      "market_cap": 114027427289.84985,
+      "trading_value": 1639918251.2109375
+    },
+    {
+      "ticker": "INTU",
+      "name": "Intuit",
+      "close": 404.8500061035156,
+      "market_cap": 112659261771.90018,
+      "trading_value": 1266944491.5504456
+    },
+    {
+      "ticker": "SBUX",
+      "name": "Starbucks",
+      "close": 97.80000305175781,
+      "market_cap": 111423543476.86768,
+      "trading_value": 445989921.1166992
+    },
+    {
+      "ticker": "VRTX",
+      "name": "Vertex Pharmaceuticals",
+      "close": 436.5899963378906,
+      "market_cap": 111050915772.15683,
+      "trading_value": 417486127.86813354
+    },
+    {
+      "ticker": "CMCSA",
+      "name": "Comcast",
+      "close": 29.049999237060547,
+      "market_cap": 105855132619.22913,
+      "trading_value": 1008083864.674717
+    },
+    {
+      "ticker": "CEG",
+      "name": "Constellation Energy",
+      "close": 277.70001220703125,
+      "market_cap": 100609234836.94238,
+      "trading_value": 942147555.114563
+    },
+    {
+      "ticker": "ADBE",
+      "name": "Adobe",
+      "close": 247.17999267578125,
+      "market_cap": 100759690652.79803,
+      "trading_value": 1215791376.614746
+    },
+    {
+      "ticker": "MAR",
+      "name": "Marriott",
+      "close": 375.45001220703125,
+      "market_cap": 99488454409.42474,
+      "trading_value": 586474695.1680908
+    },
+    {
+      "ticker": "MELI",
+      "name": "MercadoLibre",
+      "close": 1854.1800537109375,
+      "market_cap": 94001703643.75317,
+      "trading_value": 483138134.05529785
+    },
+    {
+      "ticker": "CDNS",
+      "name": "Cadence Design",
+      "close": 325.8399963378906,
+      "market_cap": 89961838426.04065,
+      "trading_value": 1131668048.6412048
+    },
+    {
+      "ticker": "SNPS",
+      "name": "Synopsys",
+      "close": 467.5799865722656,
+      "market_cap": 0.0,
+      "trading_value": 800989298.7375793
+    },
+    {
+      "ticker": "ABNB",
+      "name": "Airbnb, Inc.",
+      "close": 142.64999389648438,
+      "market_cap": 0.0,
+      "trading_value": 463631024.66278076
+    },
+    {
+      "ticker": "ADP",
+      "name": "Automatic Data Processing",
+      "close": 202.8699951171875,
+      "market_cap": 0.0,
+      "trading_value": 614124803.2988281
+    },
+    {
+      "ticker": "CSX",
+      "name": "CSX",
+      "close": 43.369998931884766,
+      "market_cap": 0.0,
+      "trading_value": 468502765.40172577
+    },
+    {
+      "ticker": "DASH",
+      "name": "DoorDash",
+      "close": 182.4499969482422,
+      "market_cap": 0.0,
+      "trading_value": 650317106.2224426
+    },
+    {
+      "ticker": "ORLY",
+      "name": "O'Reilly Automotive",
+      "close": 93.80999755859375,
+      "market_cap": 0.0,
+      "trading_value": 453219925.9449463
+    },
+    {
+      "ticker": "REGN",
+      "name": "Regeneron",
+      "close": 747.3599853515625,
+      "market_cap": 0.0,
+      "trading_value": 528635369.95861816
+    },
+    {
+      "ticker": "MPWR",
+      "name": "Monolithic Power Systems, Inc.",
+      "close": 1527.949951171875,
+      "market_cap": 0.0,
+      "trading_value": 837852883.6750488
+    },
+    {
+      "ticker": "MNST",
+      "name": "Monster Beverage",
+      "close": 75.2699966430664,
+      "market_cap": 0.0,
+      "trading_value": 412524367.25200653
+    },
+    {
+      "ticker": "ROST",
+      "name": "Ross Stores",
+      "close": 225.58999633789062,
+      "market_cap": 0.0,
+      "trading_value": 440646744.56677246
+    },
+    {
+      "ticker": "MDLZ",
+      "name": "Mondelez",
+      "close": 56.130001068115234,
+      "market_cap": 0.0,
+      "trading_value": 389997421.72138214
+    },
+    {
+      "ticker": "AEP",
+      "name": "American Electric Power",
+      "close": 131.88999938964844,
+      "market_cap": 0.0,
+      "trading_value": 323197102.95433044
+    },
+    {
+      "ticker": "CTAS",
+      "name": "Cintas",
+      "close": 176.25999450683594,
+      "market_cap": 0.0,
+      "trading_value": 342115714.05792236
+    },
+    {
+      "ticker": "WBD",
+      "name": "Warner Bros. Discovery",
+      "close": 27.309999465942383,
+      "market_cap": 0.0,
+      "trading_value": 375277435.4913044
+    },
+    {
+      "ticker": "PCAR",
+      "name": "PACCAR",
+      "close": 126.18000030517578,
+      "market_cap": 0.0,
+      "trading_value": 376650329.23095703
+    },
+    {
+      "ticker": "FTNT",
+      "name": "Fortinet",
+      "close": 85.26000213623047,
+      "market_cap": 0.0,
+      "trading_value": 439210250.72462463
+    },
+    {
+      "ticker": "BKR",
+      "name": "Baker Hughes Company",
+      "close": 60.25,
+      "market_cap": 0.0,
+      "trading_value": 329265587.25
+    },
+    {
+      "ticker": "MSTR",
+      "name": "MicroStrategy",
+      "close": 163.97000122070312,
+      "market_cap": 0.0,
+      "trading_value": 3564683231.037903
+    },
+    {
+      "ticker": "NXPI",
+      "name": "NXP Semiconductors",
+      "close": 224.5,
+      "market_cap": 0.0,
+      "trading_value": 754783143.5
+    },
+    {
+      "ticker": "FANG",
+      "name": "Diamondback Energy",
+      "close": 189.8000030517578,
+      "market_cap": 0.0,
+      "trading_value": 462685716.6394348
+    },
+    {
+      "ticker": "FAST",
+      "name": "Fastenal",
+      "close": 45.70000076293945,
+      "market_cap": 0.0,
+      "trading_value": 291458335.6657562
+    },
+    {
+      "ticker": "ADSK",
+      "name": "Autodesk",
+      "close": 245.47999572753906,
+      "market_cap": 0.0,
+      "trading_value": 342715358.47520447
+    },
+    {
+      "ticker": "EA",
+      "name": "Electronic Arts",
+      "close": 203.5500030517578,
+      "market_cap": 0.0,
+      "trading_value": 205574918.4821167
+    },
+    {
+      "ticker": "FER",
+      "name": "Ferrovial SE",
+      "close": 70.25,
+      "market_cap": 0.0,
+      "trading_value": 112019174.75
+    },
+    {
+      "ticker": "XEL",
+      "name": "Xcel Energy",
+      "close": 79.08000183105469,
+      "market_cap": 0.0,
+      "trading_value": 296680172.549469
+    },
+    {
+      "ticker": "EXC",
+      "name": "Exelon",
+      "close": 46.27000045776367,
+      "market_cap": 0.0,
+      "trading_value": 449077514.93286514
+    },
+    {
+      "ticker": "ODFL",
+      "name": "Old Dominion Freight",
+      "close": 224.4199981689453,
+      "market_cap": 0.0,
+      "trading_value": 357543248.04278564
+    },
+    {
+      "ticker": "PYPL",
+      "name": "PayPal",
+      "close": 50.880001068115234,
+      "market_cap": 0.0,
+      "trading_value": 683243315.463211
+    },
+    {
+      "ticker": "DDOG",
+      "name": "Datadog",
+      "close": 129.2899932861328,
+      "market_cap": 0.0,
+      "trading_value": 596373883.3910522
+    },
+    {
+      "ticker": "IDXX",
+      "name": "IDEXX Laboratories",
+      "close": 569.010009765625,
+      "market_cap": 0.0,
+      "trading_value": 328854214.0539551
+    },
+    {
+      "ticker": "MCHP",
+      "name": "Microchip",
+      "close": 80.93000030517578,
+      "market_cap": 0.0,
+      "trading_value": 689268915.8891373
+    },
+    {
+      "ticker": "CCEP",
+      "name": "Coca-Cola Europacific Partners PLC",
+      "close": 95.87999725341797,
+      "market_cap": 0.0,
+      "trading_value": 156289381.28292847
+    },
+    {
+      "ticker": "TRI",
+      "name": "Thomson Reuters",
+      "close": 96.72000122070312,
+      "market_cap": 0.0,
+      "trading_value": 177522888.56051636
+    },
+    {
+      "ticker": "ALNY",
+      "name": "Alnylam Pharmaceuticals, Inc.",
+      "close": 308.42999267578125,
+      "market_cap": 0.0,
+      "trading_value": 435144445.5767212
+    },
+    {
+      "ticker": "TTWO",
+      "name": "Take-Two Interactive",
+      "close": 217.64999389648438,
+      "market_cap": 0.0,
+      "trading_value": 247221663.2672119
+    },
+    {
+      "ticker": "ROP",
+      "name": "Roper Technologies",
+      "close": 362.92999267578125,
+      "market_cap": 0.0,
+      "trading_value": 440542208.6795044
+    },
+    {
+      "ticker": "KDP",
+      "name": "Keurig Dr Pepper",
+      "close": 26.440000534057617,
+      "market_cap": 0.0,
+      "trading_value": 431567966.3171768
+    },
+    {
+      "ticker": "CHTR",
+      "name": "Charter Communications",
+      "close": 241.9499969482422,
+      "market_cap": 0.0,
+      "trading_value": 466803323.2121277
+    },
+    {
+      "ticker": "PAYX",
+      "name": "Paychex",
+      "close": 93.68000030517578,
+      "market_cap": 0.0,
+      "trading_value": 303768642.5895691
+    },
+    {
+      "ticker": "WDAY",
+      "name": "Workday",
+      "close": 129.16000366210938,
+      "market_cap": 0.0,
+      "trading_value": 464007958.95614624
+    },
+    {
+      "ticker": "GEHC",
+      "name": "GE HealthCare",
+      "close": 72.26000213623047,
+      "market_cap": 0.0,
+      "trading_value": 194456362.64873505
+    },
+    {
+      "ticker": "AXON",
+      "name": "Axon Enterprise",
+      "close": 404.9200134277344,
+      "market_cap": 0.0,
+      "trading_value": 326301148.5406189
+    },
+    {
+      "ticker": "CPRT",
+      "name": "Copart",
+      "close": 33.7400016784668,
+      "market_cap": 0.0,
+      "trading_value": 213280368.95007706
+    },
+    {
+      "ticker": "INSM",
+      "name": "Insmed Incorporated",
+      "close": 140.97999572753906,
+      "market_cap": 0.0,
+      "trading_value": 220782850.14907837
+    },
+    {
+      "ticker": "CTSH",
+      "name": "Cognizant",
+      "close": 60.45000076293945,
+      "market_cap": 0.0,
+      "trading_value": 327355070.4815483
+    },
+    {
+      "ticker": "KHC",
+      "name": "Kraft Heinz",
+      "close": 21.979999542236328,
+      "market_cap": 0.0,
+      "trading_value": 299548423.22149277
+    },
+    {
+      "ticker": "DXCM",
+      "name": "Dexcom",
+      "close": 62.599998474121094,
+      "market_cap": 0.0,
+      "trading_value": 252054950.0561447
+    },
+    {
+      "ticker": "VRSK",
+      "name": "Verisk Analytics",
+      "close": 182.08999633789062,
+      "market_cap": 0.0,
+      "trading_value": 268155379.37698364
+    },
+    {
+      "ticker": "ZS",
+      "name": "Zscaler",
+      "close": 139.61000061035156,
+      "market_cap": 0.0,
+      "trading_value": 389084415.88101196
+    },
+    {
+      "ticker": "TEAM",
+      "name": "Atlassian",
+      "close": 71.22000122070312,
+      "market_cap": 0.0,
+      "trading_value": 432843616.9588928
+    },
+    {
+      "ticker": "CSGP",
+      "name": "CoStar Group",
+      "close": 38.90999984741211,
+      "market_cap": 0.0,
+      "trading_value": 149999411.26176834
+    }
+  ]
+}
