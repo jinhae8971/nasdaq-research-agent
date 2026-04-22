@@ -1,0 +1,179 @@
+{
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T22:45:28.103646Z",
+  "gainers": [
+    {
+      "ticker": "ARM",
+      "name": "Arm Holdings",
+      "sector": "Information Technology",
+      "close": 196.57000732421875,
+      "market_cap": 208757066486.63983,
+      "trading_value": 2717198022.5930786,
+      "volume": 13823055,
+      "change_pct_1d": 12.012081127820027,
+      "change_pct_nd": 17.897206478336738,
+      "price_n_days_ago": 166.72999572753906,
+      "market_cap_rank": 26
+    },
+    {
+      "ticker": "MRVL",
+      "name": "Marvell Technology",
+      "sector": "Information Technology",
+      "close": 157.32000732421875,
+      "market_cap": 137569777508.12347,
+      "trading_value": 4639614795.002747,
+      "volume": 29491575,
+      "change_pct_1d": 3.971984576430692,
+      "change_pct_nd": 12.620806481986785,
+      "price_n_days_ago": 139.69000244140625,
+      "market_cap_rank": 38
+    },
+    {
+      "ticker": "TEAM",
+      "name": "Atlassian",
+      "sector": "Information Technology",
+      "close": 74.01000213623047,
+      "market_cap": 0.0,
+      "trading_value": 534742322.14484406,
+      "volume": 7225271,
+      "change_pct_1d": 3.9174401399986376,
+      "change_pct_nd": 10.561696201031232,
+      "price_n_days_ago": 66.94000244140625,
+      "market_cap_rank": 100
+    },
+    {
+      "ticker": "CRWD",
+      "name": "CrowdStrike",
+      "sector": "Information Technology",
+      "close": 466.67999267578125,
+      "market_cap": 118356621663.67493,
+      "trading_value": 1327146896.57135,
+      "volume": 2843805,
+      "change_pct_1d": 3.796625493286418,
+      "change_pct_nd": 10.079013855030459,
+      "price_n_days_ago": 423.95001220703125,
+      "market_cap_rank": 41
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "sector": "Information Technology",
+      "close": 303.4599914550781,
+      "market_cap": 494764460788.5067,
+      "trading_value": 14822105750.034485,
+      "volume": 48843690,
+      "change_pct_1d": 6.668073349461198,
+      "change_pct_nd": 9.005343398648847,
+      "price_n_days_ago": 278.3900146484375,
+      "market_cap_rank": 13
+    }
+  ],
+  "analyses": [
+    {
+      "ticker": "ARM",
+      "name": "Arm Holdings",
+      "pump_thesis": "AI 데이터센터 확장에 따른 ARM 아키텍처 기반 칩 수요 급증 기대감과 반도체 섹터 전반의 AI 인프라 모멘텀이 맞물려 2일간 17.9%의 급등을 견인했다.",
+      "drivers": [
+        "AI 데이터센터 인프라 투자 확대 사이클 속에서 ARM 아키텍처가 데이터센터·엣지 AI 칩의 핵심 IP로 부상하며 로열티 수익 증가 기대감 강화 — AMD, MRVL 등 동종 AI 반도체주의 연속 강세가 섹터 로테이션 수혜로 ARM에도 전이",
+        "엔비디아·퀄컴·애플 등 주요 고객사들의 차세대 AI 칩 설계에서 ARM v9 아키텍처 채택 비율 확대 내러티브 지속, 로열티 단가 상승(v9은 v8 대비 2배 이상 로열티) 모멘텀이 투자자 관심 집중"
+      ],
+      "risks": [
+        "현재 주가는 FY2026 예상 EV/Sales 기준 30배 이상의 극단적 프리미엄 밸류에이션으로, 미국 국채 금리 재상승 시 성장주 멀티플 급격한 압축 위험",
+        "소프트뱅크의 대규모 지분 보유(약 90%)로 인한 유동주식 희소성이 변동성을 증폭시키며, 소프트뱅크 자금조달 필요 시 대량 블록딜 매도 리스크 상존"
+      ],
+      "sector_tags": [
+        "Technology"
+      ],
+      "confidence": 0.62,
+      "news_used": []
+    },
+    {
+      "ticker": "MRVL",
+      "name": "Marvell Technology",
+      "pump_thesis": "AI 데이터센터용 커스텀 ASIC 및 고속 네트워킹 반도체 수요 급증을 배경으로 3일 연속 AI 인프라 체인 상위권을 유지하며 12.6%의 강한 상승세를 기록했다.",
+      "drivers": [
+        "AWS, 구글, 마이크로소프트 등 하이퍼스케일러들의 자체 AI 가속기(커스텀 ASIC) 설계 수요에서 MRVL의 ASIC 설계 서비스 및 고속 SerDes IP가 핵심 수혜주로 지목, 데이터센터 광인터커넥트·PAM4 이더넷 스위치 수요 폭증",
+        "시장 내러티브상 AMD·STX·MRVL로 구성된 'AI 인프라 체인'이 3일 연속 나스닥 상위권을 점령하는 모멘텀 트레이딩 흐름이 지속, 대규모 거래대금(46억 달러)이 기관 및 모멘텀 펀드의 적극적 매수를 시사"
+      ],
+      "risks": [
+        "커스텀 ASIC 사업의 고객 집중도 리스크: 매출의 상당 부분이 소수 하이퍼스케일러에 의존하며, 특정 고객사의 내재화(in-house) 전략 전환 시 매출 급감 가능",
+        "반도체 사이클 특성상 AI 인프라 투자 속도 둔화 또는 하이퍼스케일러 CAPEX 가이던스 하향 시 밸류에이션 재조정 압력 취약"
+      ],
+      "sector_tags": [
+        "Technology"
+      ],
+      "confidence": 0.72,
+      "news_used": []
+    },
+    {
+      "ticker": "TEAM",
+      "name": "Atlassian",
+      "pump_thesis": "금리 안정화 기대감에 따른 엔터프라이즈 SaaS 멀티플 리레이팅 흐름 속에서 Atlassian이 수혜를 받으며 2일간 10.6% 상승했다.",
+      "drivers": [
+        "시장 내러티브상 미국 국채 금리 안정화 기대가 높은 미래가치 의존도를 가진 고성장 SaaS 주식들의 밸류에이션 멀티플 회복을 촉진, Atlassian은 규모가 큰 엔터프라이즈 협업 플랫폼으로 금리 방향성에 민감한 대표 SaaS 종목",
+        "AI 기능(Atlassian Intelligence) 통합을 통한 클라우드 제품군 업셀링 기대감과 함께, 엔터프라이즈 소프트웨어 섹터 전반의 리레이팅 국면에서 동반 상승 모멘텀 수혜"
+      ],
+      "risks": [
+        "현재 클라우드 전환 매출 성장률 둔화 우려가 존재하며, 경기 침체 시 기업 IT 예산 삭감으로 시트 확장(seat expansion) 수요 감소 가능성",
+        "Microsoft Teams, Notion, ServiceNow 등 경쟁사들의 협업·프로젝트 관리 시장 잠식 가속화로 인한 경쟁 심화 및 고객 이탈 리스크"
+      ],
+      "sector_tags": [
+        "Technology"
+      ],
+      "confidence": 0.52,
+      "news_used": []
+    },
+    {
+      "ticker": "CRWD",
+      "name": "CrowdStrike",
+      "pump_thesis": "AI 기반 사이버보안 플랫폼의 구조적 수요 성장과 엔터프라이즈 SaaS 멀티플 회복 기조가 결합되어 CrowdStrike가 2일간 10.1% 상승했다.",
+      "drivers": [
+        "AI·클라우드 인프라 확장에 따른 공격 표면 증가로 엔드포인트 및 클라우드 보안 지출 필수화 트렌드 강화, CrowdStrike의 Falcon 플랫폼이 통합 보안 플랫폼 시장의 최대 수혜주로 지목되며 기관 매수 유입",
+        "금리 안정화 기대에 따른 고성장 사이버보안 SaaS 섹터 전반의 멀티플 리레이팅 흐름 수혜, 경쟁사 대비 ARR 성장률 및 고객 유지율(Net Revenue Retention) 우위에 대한 재평가"
+      ],
+      "risks": [
+        "2024년 7월 발생한 대규모 글로벌 IT 장애(Falcon 센서 업데이트 오류) 이후 일부 대형 고객사의 계약 갱신 협상력 강화 및 손해배상 청구 리스크 잔존",
+        "Palo Alto Networks, SentinelOne 등 경쟁사들의 번들링·가격 인하 전략 심화로 신규 고객 확보 비용(CAC) 상승 및 마진 압박 가능성"
+      ],
+      "sector_tags": [
+        "Technology"
+      ],
+      "confidence": 0.58,
+      "news_used": []
+    },
+    {
+      "ticker": "AMD",
+      "name": "AMD",
+      "pump_thesis": "AI 데이터센터용 GPU(MI300X 시리즈) 수요 가속화와 경쟁사 대비 가격·성능 경쟁력 부각이 AI 인프라 체인 핵심주로서 2일간 9% 상승을 이끌었다.",
+      "drivers": [
+        "하이퍼스케일러 및 클라우드 사업자들의 CAPEX 확대 사이클에서 NVIDIA GPU 대체 수요 포착: MI300X의 대용량 HBM 메모리 스펙이 LLM 추론 워크로드에 유리하다는 기술적 분석이 재확산되며 AI GPU 시장 점유율 확대 기대 강화",
+        "나스닥 시장 내 'AI 인프라 체인(AMD·STX·MRVL)' 3일 연속 강세 모멘텀 지속, 역대급 거래대금(148억 달러)과 볼륨(4,884만 주)이 기관 및 모멘텀 투자자들의 대규모 포지션 진입을 시사"
+      ],
+      "risks": [
+        "NVIDIA의 Blackwell GPU 아키텍처 출시 본격화로 AI 학습·추론 시장에서 AMD MI300X의 경쟁 포지션 약화 가능성, CUDA 생태계 락인(lock-in) 효과로 고객 전환 비용 장벽 존재",
+        "미국의 대중국 반도체 수출 규제 강화 시 중국향 데이터센터 GPU 매출 추가 제한 리스크 및 지정학적 불확실성에 따른 공급망 교란 가능성"
+      ],
+      "sector_tags": [
+        "Technology"
+      ],
+      "confidence": 0.75,
+      "news_used": []
+    }
+  ],
+  "narrative": {
+    "current_narrative": "나스닥 시장은 현재 AI 데이터센터 인프라 확장 사이클을 핵심 동력으로 삼아, 반도체(ASIC·GPU·네트워킹 칩) 및 엔터프라이즈 SaaS 멀티플 리레이팅을 동시에 보상하고 있다.",
+    "hot_sectors": [
+      "AI 인프라 반도체 (MRVL·ARM·AMD — 커스텀 ASIC·GPU·고속 네트워킹)",
+      "엔터프라이즈 SaaS 멀티플 리레이팅 (CRWD·TEAM·ZS — 금리 안정화 수혜)",
+      "AI 기반 사이버보안 플랫폼 (CRWD·ZS — 구조적 수요 성장)"
+    ],
+    "cooling_sectors": [
+      "에너지/E&P (FANG — 4/21일 이후 상위권 탈락)",
+      "크립토 레버리지 플레이 (MSTR — 4/17일 이후 상위권 미등장)",
+      "헬스케어 디바이스 (DXCM — 4/17일 이후 상위권 미등장)",
+      "케이블·통신 방어주 (CHTR — 4/20일 이후 상위권 탈락)"
+    ],
+    "investment_insight": "현 시점에서 PM은 AI 데이터센터 직접 수혜 반도체(MRVL·ARM·AMD)를 오버웨이트하되, 특히 커스텀 ASIC·고속 인터커넥트 사이클의 초기 수혜주인 MRVL에 대한 비중 확대를 최우선으로 고려해야 한다. 엔터프라이즈 SaaS는 금리 경로 불확실성이 재부각될 경우 멀티플 리레이팅이 빠르게 되돌려질 수 있으므로, CRWD·TEAM 포지션은 수익 가시성이 높은 종목에 한정하고 규모를 조절할 것을 권고한다. 무효화 시그널은 ①미 국채 10년물 수익률이 4.6%를 재돌파하거나 ②주요 빅테크의 AI 설비투자(capex) 가이던스 하향 조정 발표로, 이 경우 AI 인프라 멀티플 전반의 급격한 디레이팅 위험에 대비한 헤지 포지션을 즉시 검토해야 한다.",
+    "week_over_week_change": "주 초반(4/17~4/20)에는 크립토(MSTR), 헬스케어(DXCM), 통신(CHTR) 등 이종 섹터가 간헐적으로 상위권에 진입해 분산된 리스크온 양상이었으나, 주 후반~현재로 갈수록 AI 반도체(MRVL·ARM·AMD)와 엔터프라이즈 SaaS(CRWD·TEAM)로 모멘텀이 집중·압축되는 뚜렷한 섹터 집중화 현상이 관찰된다. MRVL은 4/17부터 오늘까지 3회 연속 상위권 유지로 신뢰도가 가장 높으며, AMD와 CRWD도 이틀 연속 상위권을 지키며 모멘텀을 강화하고 있다."
+  }
+}
