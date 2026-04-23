@@ -1,5 +1,41 @@
 [
   {
+    "date": "2026-04-23",
+    "narrative_tagline": "나스닥 시장은 현재 TXN의 어닝 서프라이즈를 기폭제로 아날로그·마이크로컨트롤러 반도체 업황의 바닥 통과 확인과 AI 인프라(커스텀 ASIC, ARM 아키텍처, 데이터센터 가속기) 수요 사이클 가속화라는 두 축이 동시에 가격에 반영되며, 반도체 섹터 ",
+    "top5": [
+      {
+        "ticker": "TXN",
+        "name": "Texas Instruments",
+        "sector": "Information Technology",
+        "change_pct_nd": 20.77
+      },
+      {
+        "ticker": "ARM",
+        "name": "Arm Holdings",
+        "sector": "Information Technology",
+        "change_pct_nd": 16.85
+      },
+      {
+        "ticker": "MCHP",
+        "name": "Microchip",
+        "sector": "Information Technology",
+        "change_pct_nd": 12.75
+      },
+      {
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "sector": "Information Technology",
+        "change_pct_nd": 11.99
+      },
+      {
+        "ticker": "AMD",
+        "name": "AMD",
+        "sector": "Information Technology",
+        "change_pct_nd": 11.05
+      }
+    ]
+  },
+  {
     "date": "2026-04-22",
     "narrative_tagline": "나스닥 시장은 현재 AI 데이터센터 인프라 확장 사이클을 핵심 동력으로 삼아, 반도체(ASIC·GPU·네트워킹 칩) 및 엔터프라이즈 SaaS 멀티플 리레이팅을 동시에 보상하고 있다.",
     "top5": [
